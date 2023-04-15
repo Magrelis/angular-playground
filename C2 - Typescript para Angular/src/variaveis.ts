@@ -39,10 +39,11 @@ let meuProduto: ProdutoLoja = {
 /**
  * arrays
  */
-
+//maneiras de declarar um array
 let dados: string[] = ["felipe", "ana", "adriana"];
 let dados2: Array<string> = ["felipe", "ana", "adriana"];
 
+//array de multi tipos
 let infos: (string | number)[] = [322, "felipe"];
 
 /**

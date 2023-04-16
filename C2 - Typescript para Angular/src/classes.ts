@@ -41,3 +41,6 @@ class Magician extends Character {
 const p1 = new Character("Ryu", 10, 98);
 const p2 = new Magician("Mago", 09, 30, 100);
 p1.skill = 12;
+
+console.log(p1);
+console.log(p2);

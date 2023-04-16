@@ -17,4 +17,4 @@ async function getDatabase(id: number): Promise<string> {
 
 let soma: number = addNumber(4, 7);
 
-console.log();
+console.log(addToHello("caio"));

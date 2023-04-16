@@ -23,4 +23,4 @@ function getDatabase(id) {
     });
 }
 let soma = addNumber(4, 7);
-console.log();
+console.log(addToHello("caio"));

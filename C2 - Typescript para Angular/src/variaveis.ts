@@ -43,11 +43,11 @@ let meuProduto: ProdutoLoja = {
 let dados: string[] = ["felipe", "ana", "adriana"];
 let dados2: Array<string> = ["felipe", "ana", "adriana"];
 
-//array de multi tipos
+//array de multi tipos, a ordem nao importa
 let infos: (string | number)[] = [322, "felipe"];
 
 /**
- * Tuplas
+ * Tuplas, um vetor de multiplos tipos, porem a ordem importa
  */
 let boleto: [string, number, number] = ["agua conta", 199.9, 32342342];
 
@@ -61,3 +61,4 @@ dados.pop();
  */
 let aniversario: Date = new Date("2022-12-01 05:00");
 console.log(aniversario.toString());
+

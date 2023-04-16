@@ -1,16 +1,16 @@
 "use strict";
 let ligado = false;
-let nome = "felipe";
-let idade = 30;
-let altura = 1.9;
+let nome = "Caio";
+let idade = 26;
+let altura = 1.8;
 let nulo = null;
 let indefinido = undefined;
 let retorno;
 let retornoView = false;
 let produto = {
-    name: "felipe",
-    cidade: "sp",
-    idade: 30,
+    name: "Caio",
+    cidade: "RJ",
+    idade: 26,
 };
 let meuProduto = {
     nome: "Tênis",

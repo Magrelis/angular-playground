@@ -36,5 +36,5 @@ class Api {
   }
 }
 
-const api = new Api("usaadasdaaaaa");
+const api = new Api("cum");
 console.log(api.name);
